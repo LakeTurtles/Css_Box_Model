@@ -1,0 +1,19 @@
+body {
+    background-image: url(../images/NorwayRest.png) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: 100%;
+}
+
+.firstParagraph{
+    color: whitesmoke;
+}
+
+.secondParagraph {
+    color: rgb(231, 9, 9);
+}
+
+h1 {
+    color :white;
+}

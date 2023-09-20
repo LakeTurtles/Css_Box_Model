@@ -1,0 +1,57 @@
+.mainImage1 {
+    
+    color: blue;
+}
+
+.mainImage3 {
+  width: 50%;
+    color :rgb(230, 6, 238);
+    position: relative;
+    z-index: 1;
+    box-shadow: inset 120px 100px 250px #03b2f7, inset -120px -100px 250px #000000;
+    border: 15px solid rgb(0, 255, 17);
+    border-radius: 10%;
+   
+    
+}
+
+.mainImage3.hidden {
+    visibility: hidden;
+}
+
+#main_image_1 {
+    height: 400px;
+    width: 50%;
+    border: 10px solid black;
+}
+
+#main_image_2 {
+    height: 30%;
+    width: 50%;
+    border: 10px dashed rgb(249, 2, 195);
+    border-width: 0px 10px 20px 30px;
+}
+
+#main_image_3 {
+    height: 33%;
+    width: 50%;
+    border: 10px solid rgb(162, 4, 225);
+    background: rgba(6, 161, 228, 0.6);
+    border-radius: 40%;
+    z-index: 2;
+}
+
+.mainImage4 {
+    border : 10px solid blue;
+    border-width: 10px 15px;
+    margin: 10px;
+
+}
+.mainImage4 h1 {
+    padding-left: 30px;
+}
+
+#main_image_4 {
+    border-radius: 10% 30%;
+    padding: 50px;
+}
